@@ -1,0 +1,19 @@
+{
+  "name": "fetch",
+  "version": "1.0.0",
+  "description": "fetch API",
+  "main": "fetchAPI.js",
+  "scripts": {
+    "fetch": "node fetchAPI.js"
+  },
+  "keywords": [
+    "fetch",
+    "API",
+    "async"
+  ],
+  "author": "Sebastian Rodriguez Ardila",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
